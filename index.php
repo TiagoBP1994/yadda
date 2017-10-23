@@ -11,9 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        print_r("Hello World!");
-        print_r("blaaa blaaa blaaa");
-        // put your code
+        print_r("Hello World!")
+        // put your code here
         ?>
     </body>
 </html>
